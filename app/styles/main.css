@@ -1,0 +1,10 @@
+/* Will be compiled down to a single stylesheet with your sass files */
+
+input.sg-transbox, input.sg-transbox:hover, input.sg-transbox:focus{
+    background-color: transparent;
+    border: 0px;
+    box-shadow: none;
+    outline:0px !important;
+    -webkit-appearance:none;
+    font-size: 1.3em;
+}
