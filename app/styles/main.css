@@ -7,4 +7,9 @@ input.sg-transbox, input.sg-transbox:hover, input.sg-transbox:focus{
     outline:0px !important;
     -webkit-appearance:none;
     font-size: 1.3em;
+    color: #fff;
+}
+
+body {
+    background-color: #333;
 }
